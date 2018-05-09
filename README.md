@@ -1,1 +1,1 @@
-# shop2
+# Wayfarer Laravel Shop Project
